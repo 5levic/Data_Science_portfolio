@@ -1,5 +1,5 @@
 # Data Science Portfolio
-The repository contains portfolio of data science projects completed by me for self learning presented in the form of Jupyter Notebooks.
+The repository contains portfolio of data science projects completed by me for self learning purpose. The projects are presented in the form of Jupyter Notebooks.
 
 
 ## Contents
